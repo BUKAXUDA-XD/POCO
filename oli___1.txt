@@ -1,0 +1,1 @@
+[FBAN/Orca-Android;FBAV/62.0.0.11.77;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/796673089;FBCR/;FBMF/OPPO Find X;FBBD/OPPO Find X;FBDV/OPPO;FBSV/9.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1280};FB_FW/1;]
