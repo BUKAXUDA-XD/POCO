@@ -1,1 +1,1 @@
-OLIVER_R=[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097172;FBDM/{density=1.5,width=540,height=960};FBLC/fr_FR;FBCR/SFR;FBMF/HTC;FBBD/htc;FBPN/com.facebook.katana;FBDV/HTC_B830x;FBSV/6.0.1;nullFBCA/armeabi-v7a:armeabi;]=UA
+OLIVER_R=[FBAN/FB4A;FBAV/266.0.0.56.124;FBBV/209027753;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_GB;FBRV/209644275;FBCR/Jio 4G;FBMF/Maxwest;FBBD/Maxwest;FBPN/com.facebook.katana;FBDV/Nitro 5 GO;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]=UA
