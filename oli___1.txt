@@ -1,1 +1,1 @@
-OLIVER=[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097191;FBDM/{density=2.0,width=720,height=1280};FBLC/de_DE;FBCR/T-Mobile  NL;FBMF/Valencia2_Y100pro;FBBD/DOOGEE;FBPN/com.facebook.katana;FBDV/Valencia2_Y100pro;FBSV/5.1;nullFBCA/armeabi-v7a:armeabi;]=UA
+MAGI=[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097191;FBDM/{density=2.0,width=720,height=1280};FBLC/de_DE;FBCR/T-Mobile  NL;FBMF/Valencia2_Y100pro;FBBD/DOOGEE;FBPN/com.facebook.katana;FBDV/Valencia2_Y100pro;FBSV/5.1;nullFBCA/armeabi-v7a:armeabi;]=XD
