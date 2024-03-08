@@ -1,1 +1,1 @@
-MAGI_2=[FBAN/FB4A;FBAV/316.0.0.54.116;FBBV/287518980;FBDM/{density=3.0,width=1080,height=2130};FBLC/ru_RU;FBRV/0;FBCR/U Mobile;FBMF/Vivo;FBBD/Vivo;FBPN/com.facebook.katana;FBDV/I2216;FBSV/11;FBOP/1;FBCA/armeabi-v7a:armeabi;]=XD
+MAGI_2=[FBAN/FB4A;FBAV/3.7;FBBV/381878;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/RSA MTN;FBPN/com.facebook.katana;FBDV/GT-N7100;FBSV/4.1.1;FBCA/armeabi-v7a:armeabi;]=XD
