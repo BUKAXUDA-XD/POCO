@@ -1,1 +1,1 @@
-MAGI_2=[FBAN/FB4A;FBAV/365.0.0.30.112;FBBV/367653576;FBDM/{density=2.25,width=720,height=1400};FBLC/en_Qaau_US;FBRV/369757394;FBCR/Banglalink;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX3363;FBSV/13;FBOP/1;FBCA/arm64-v8a:;]=XD
+MAGI_2=[FBAN/FB4A;FBAV/407.0.0.30.97;FBBV/440412261;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/MTC;FBMF/Amazon;FBBD/Amazon;FBPN/com.facebook.katana;FBDV/AFTSO001;FBSV/5.1;nullFBCA/armeabi-v7a:armeabi;]=XD
